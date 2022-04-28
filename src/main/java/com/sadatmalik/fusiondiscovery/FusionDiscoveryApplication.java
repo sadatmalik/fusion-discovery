@@ -1,4 +1,4 @@
-package com.sadatmalik.fusiondiscovery.fusiondiscovery;
+package com.sadatmalik.fusiondiscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

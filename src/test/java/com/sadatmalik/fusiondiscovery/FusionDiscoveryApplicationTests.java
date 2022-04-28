@@ -1,4 +1,4 @@
-package com.sadatmalik.fusiondiscovery.fusiondiscovery;
+package com.sadatmalik.fusiondiscovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
